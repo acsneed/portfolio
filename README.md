@@ -22,7 +22,9 @@ City Scoops Creamery, Edwardsville, IL — General  Manager
 
 
 ### Projects
+[Python Project](https://github.com/acsneed/Python-Projects/blob/cb44a28964d34a2cb82d92676bd0e379e348b48b/Project_06_Sneed.ipynb)
 
+In the course of this project, I collaborate with University data to conduct an extensive analysis encompassing various facets, including the demographic distribution of students based on their majors, graduation rates by major, assessment of the current students' Grade Point Averages (GPAs), and an examination of the grade distribution correlated with different instructors.
 
 
 

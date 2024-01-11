@@ -27,4 +27,9 @@ City Scoops Creamery, Edwardsville, IL — General  Manager
 In the course of this project, I explored university data to conduct an extensive analysis encompassing various facets, including the demographic distribution of students based on their majors, graduation rates by major, assessment of the current students' Grade Point Averages (GPAs), and an examination of the grade distribution correlated with different instructors.
 
 
+[R Project](https://github.com/acsneed/portfolio/blob/edd549c156ae912dfa8fb8632a7572c97237b9d9/code/Final%20Project%20Word%20Doc.pdf)
+
+In this R project, I analyzed Permanent Magnet Synchronous Motors (PMSM) temperature data. Steps included importing and cleaning the dataset, transforming variables, and exploring summary statistics for 'pm' and 'motor_speed.' I conducted correlation analysis between these variables and employed ggplot2 for data visualization. Linear regression models were built with varying predictors, and their coefficients and adjusted R-squared values were examined. Additionally, I implemented the k-Nearest Neighbors (k-NN) algorithm to predict 'stator_yoke' and evaluated model performance. This project integrated data manipulation, exploratory analysis, statistical modeling, and machine learning to gain insights into PMSM temperature dynamics.
+
+
 

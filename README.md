@@ -32,4 +32,9 @@ In the course of this project, I explored university data to conduct an extensiv
 In this R project, I analyzed Permanent Magnet Synchronous Motors (PMSM) temperature data. Steps included importing and cleaning the dataset, transforming variables, and exploring summary statistics for 'pm' and 'motor_speed.' I conducted correlation analysis between these variables and employed ggplot2 for data visualization. Linear regression models were built with varying predictors, and their coefficients and adjusted R-squared values were examined. Additionally, I implemented the k-Nearest Neighbors (k-NN) algorithm to predict 'stator_yoke' and evaluated model performance. This project integrated data manipulation, exploratory analysis, statistical modeling, and machine learning to gain insights into PMSM temperature dynamics.
 
 
+[Excel Project](https://github.com/acsneed/portfolio/blob/59c863115f37b4b12f49c2df5f2a7082a9378b82/code/Adam_Sneed_Excel.xlsx)
+
+For this Excel project, I meticulously delved into an employee database, employing advanced sorting and filtering techniques. Subsequently, I crafted a comprehensive pivot table detailing salaries, an annuity table, and an interest rate chart. These individual components seamlessly converged into a final, cohesive analysis for each employee. This dynamic analysis empowers users to efficiently search for specific employees, providing crucial retirement insights, including their retirement goal and proximity to achieving it.
+
+
 

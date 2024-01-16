@@ -34,7 +34,7 @@ In this R project, I analyzed Permanent Magnet Synchronous Motors (PMSM) tempera
 
 [Excel Project](https://github.com/acsneed/portfolio/blob/59c863115f37b4b12f49c2df5f2a7082a9378b82/code/Adam_Sneed_Excel.xlsx)
 
-For this Excel project, I meticulously delved into an employee database, employing advanced sorting and filtering techniques. Subsequently, I crafted a comprehensive pivot table detailing salaries, an annuity table, and an interest rate chart. These individual components seamlessly converged into a final, cohesive analysis for each employee. This dynamic analysis empowers users to efficiently search for specific employees, providing crucial retirement insights, including their retirement goal and proximity to achieving it.
+For this Excel project, I analyzed an employee database, employing advanced sorting and filtering techniques. Subsequently, I crafted a comprehensive pivot table detailing salaries, an annuity table, and an interest rate chart. These individual components converged into a final, cohesive analysis for each employee. This dynamic analysis empowers users to efficiently search for specific employees, providing crucial retirement insights, including their retirement goal and proximity to achieving it.
 
 
 

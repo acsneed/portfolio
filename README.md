@@ -9,13 +9,27 @@ Maryville University, St. Louis, MO
 - Aspire to complete a Masters in Data Science or Artificial Intelligence (AI)
 
 ### Work Experience
+UNCOMN, O'Fallon, IL, Data Engineer
+- September 2024 - PRESENT
+- Provide data support to develop reports and visualizations using Databricks, Python, SQL, and Qlik Sense
+- Analyze data requirements, build data models that utilize CI/CD practices, and create data pipelines and ETL processes
+
+UNCOMN, O'Fallon, IL, Computer Science Intern
+- June 2024 - September 2024
+- Worked alongside fellow interns to develop a pricing tool application that automated and accelerated the process of generating contract proposals
+- Developed database and key architecture documentation
+- Wrote SQL scripts for database management and querying in Azure SQL and AWS
+- Contributed to web development using Angular (JavaScript, CSS, HTML) and Python
+- Actively participated in project code reviews
+
+
 Gonzalez Companies LLC, St. Louis, MO — Engineering / IT  Summer Internship
 - May 2022 - August 2023
 - Supported data gathering and data visualization projects using Python and MS Excel
 - Went to different locations to help gather data
 
 City Scoops Creamery, Edwardsville, IL — General  Manager
-- January 2020 - PRESENT
+- January 2020 - May 2024
 - Became general manager of new store location in August of 2020
 - In charge of stock, as well as train and supervise employees at my store location
 - Communicate with employees and customers to solve on-the-job problems that arise daily

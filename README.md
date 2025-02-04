@@ -6,7 +6,7 @@
 Maryville University, St. Louis, MO
 - 3.92  GPA
 - B.S. in Data Science
-- Aspire to complete a Masters in Data Science or Artificial Intelligence (AI)
+- Currently pursuing a Masters in Artificial Intelligence (AI)
 
 ### Work Experience
 UNCOMN, O'Fallon, IL, Data Engineer
